@@ -1,0 +1,10 @@
+# Keep the CV LaTeX source out of the published website.
+# (Only the compiled assets/cv.pdf should go live, not CV_generation/.)
+CV_generation/
+
+# macOS / editor cruft
+.DS_Store
+*.swp
+
+# local preview tooling
+.claude/
